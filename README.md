@@ -66,4 +66,4 @@ data cleaning techniques, and data visualization capabilities. It emphasized the
 significance of accurate and well-organized data in driving effective business decisions.
 
 ## Dashboard image
-
+https://github.com/Vetri2509/BIKE_SALES_DASHBOARD/blob/dca13e2763f1cd77bd06858bbbccf6e3a0d42225/Screenshot%202024-03-14%20215257.png
